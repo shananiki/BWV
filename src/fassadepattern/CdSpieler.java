@@ -2,9 +2,9 @@ package fassadepattern;
 
 public class CdSpieler implements EinAusSchaltbar {
 
-    private Verstärker verstärker;
+    private Verstaerker verstärker;
 
-    public CdSpieler(Verstärker verstärker){
+    public CdSpieler(Verstaerker verstärker){
         this.verstärker = verstärker;
     }
 

@@ -1,6 +1,6 @@
 package fassadepattern;
 
-public class Verstärker implements EinAusSchaltbar{
+public class Verstaerker implements EinAusSchaltbar{
 
     private int lautstaerke;
     private boolean isEingeschalten;

@@ -3,9 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/abstractfactory/Main.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/RegenwaldWorldFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/abstractfactory/WüstenWorld.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/abstractfactory/WüstenWorldFactory.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/wüstentiere/JungleBaum.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/wüstentiere/Kaktus.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/wüstentiere/Urwaldmensch.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/abstractfactory/wüstentiere/WüstenBär.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/legobauteile/Main.java" charset="windows-1252" />
   </component>
 </project>

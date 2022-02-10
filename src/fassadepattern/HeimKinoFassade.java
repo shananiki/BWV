@@ -3,10 +3,10 @@ package fassadepattern;
 public class HeimKinoFassade implements  EinAusSchaltbar{
 
     private CdSpieler cdSpieler;
-    private Verstärker verstärker;
+    private Verstaerker verstärker;
 
     public HeimKinoFassade(){
-        this.verstärker = new Verstärker();
+        this.verstärker = new Verstaerker();
         this.cdSpieler = new CdSpieler(this.verstärker);
     }
 
