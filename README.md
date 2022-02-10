@@ -8,3 +8,4 @@ Index | Pattern | Type
 3 | [Adapter](https://github.com/shananiki/BWV/tree/main/src/adapterpattern) | Structual Pattern
 4 | [Composite](https://github.com/shananiki/BWV/tree/main/src/compositepattern) | Structual Pattern
 5 | [Abstract Factory](https://github.com/shananiki/BWV/tree/main/src/abstractfactory) | Build Pattern
+6 | [Template Method](https://github.com/shananiki/BWV/tree/main/src/templatemethod) | Structual Pattern
